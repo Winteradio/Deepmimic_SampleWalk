@@ -1,0 +1,4 @@
+This file is Baseline for 3D Coordinate System using OpenGL in python
+
+So, you can use Opengl using Camera ans Shading, Gridworld
+You just input your physics information or functions on your python file!!
